@@ -19,21 +19,20 @@ Master the fundamentals of data engineering by building an end-to-end data pipel
 <a href="https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG">#course-data-engineering Channel</a> •
 <a href="https://t.me/dezoomcamp">Telegram Announcements</a> •
 <a href="https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb">Course Playlist</a> •
-<a href="https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing">FAQ</a>
+<a href="https://datatalks.club/faq/data-engineering-zoomcamp.html">FAQ</a>
 </p>
 
 ## How to Enroll
 
-### 2025 Cohort
-- **Start Date**: January 13, 2025
+### 2026 Cohort
+- **Start Date**: January 2026
 - **Register Here**: [Sign up](https://airtable.com/shr6oVXeQvSI5HuWD)
-- **Access Cohort Materials**: [2025 Cohort Folder](cohorts/2025/)
 
 ### Self-Paced Learning
 All course materials are freely available for independent study. Follow these steps:
 1. Watch the course videos.
 2. Join the [Slack community](https://datatalks.club/slack.html).
-3. Refer to the [FAQ document](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing) for guidance.
+3. Refer to the [FAQ document](https://datatalks.club/faq/data-engineering-zoomcamp.html) for guidance.
 
 ## Syllabus Overview
 The course consists of structured modules, hands-on workshops, and a final project to reinforce your learning.
